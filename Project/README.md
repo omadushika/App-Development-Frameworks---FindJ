@@ -1,14 +1,50 @@
-# Expo Router Example
+### Developed by Oshan Madushika
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+# FindJ - Job Finding Application with React Native & Expo
 
-## 🚀 How to use
+This project is a powerful and user-friendly mobile application developed using React Native and Expo. FindJ application allows the user to explore jobs easily and view the job details of each jobs. The application classifies the jobs into popular and nearby jobs which helps the users to find the most relevant job positions. Additionally the application allows users to view the details of the job positoin.
 
-```sh
-npx create-expo-app -e with-router
-```
+<br/>
 
-## 📝 Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+## Features
+
+<li>Browse through a diverse range of job listings.</li>
+<li>Access details for each job, including job descriptions, requirements, and an overview of the position.</li>
+<li>Clean and user-friendly interface</li>
+<li>Mobile compatibility.</li>
+<li>Use of the default OS alert for notifications.</li>
+<li>Smooth and responsive experience across different devices.</li>
+
+
+<br/>
+
+## SetUp Instructions
+
+<ol>
+   <li>Ensure you have Node.js and npm installed on your computer</li>
+  <li>Clone the repository from GitHub
+
+  ``` git clone https://github.com/omadushika/FindJ.git ```
+  </li>
+   
+   <li>Navigate to the project directory
+   
+   ``` cd findj ```
+   </li>
+   <li>
+    Install project dependencies
+
+``` npm install ```
+   </li>
+   <li> Run the Application
+   
+   ``` npm start ```</li>
+   <li>Run on Android or IOS emulator</li>
+</ol>
+
+<br/>
+
+## Student Details
+<li>Student ID: iAMDT.2797</li>
+<li>Course: UX Design</li>
