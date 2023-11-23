@@ -25,12 +25,12 @@ This project is a powerful and user-friendly mobile application developed using 
    <li>Ensure you have Node.js and npm installed on your computer</li>
   <li>Clone the repository from GitHub
 
-  ``` git clone https://github.com/omadushika/FindJ.git ```
+  ``` git clone - https://github.com/omadushika/App-Development-Frameworks---FindJ.git ```
   </li>
    
    <li>Navigate to the project directory
    
-   ``` cd findj ```
+   ``` cd App-Development-Frameworks---FindJ/Project ```
    </li>
    <li>
     Install project dependencies
