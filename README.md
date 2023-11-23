@@ -1,6 +1,6 @@
 ### Developed by Oshan Madushika
 
-# FindJ Job Finding Application with React Native & Expo
+# FindJ - Job Finding Application with React Native & Expo
 
 This project is a powerful and user-friendly mobile application developed using React Native and Expo. FindJ application allows the user to explore jobs easily and view the job details of each jobs. The application classifies the jobs into popular and nearby jobs which helps the users to find the most relevant job positions. Additionally the application allows users to view the details of the job positoin.
 
