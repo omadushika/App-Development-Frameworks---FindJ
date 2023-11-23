@@ -42,3 +42,8 @@ npm install
    npm start</li>
    <li>Run on Android or IOS emulator</li>
 </ol>
+<br/>
+
+## Studen Detals 
+<li>Studen ID: iAMDT.2797</li>
+<li>Course: UX Design</li>
