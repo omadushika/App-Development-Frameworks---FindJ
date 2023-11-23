@@ -1,4 +1,4 @@
-### Developed by Oshan Madushika
+### Developed by Oshan Madhushika
 
 # Job Finding Application with React Native & Expo
 
